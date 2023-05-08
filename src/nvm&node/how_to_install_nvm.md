@@ -1,13 +1,13 @@
-#NVM
+# NVM
 
 To install or update nvm, you should run the install script. To do that, you may either download and run the script manually, or use the following cURL or Wget command:
 
 ------------------------------------------------------
 
-1-> First Script:
+1-> First Script: <br/>
 'curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash'
 
-2-> Second Script:
+2-> Second Script: <br/>
 'wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash'
 
 
