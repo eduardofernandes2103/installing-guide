@@ -1,4 +1,4 @@
-# Install Flutter using snapd
+# Install Flutter using snapd (please install android-studio before).
 
     sudo snap install flutter --classic
 
